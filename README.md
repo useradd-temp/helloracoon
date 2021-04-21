@@ -1,5 +1,17 @@
 ## Hm~
 
+### Python Backend Developer
+
+#### [Twitch Nacho][https://www.twitchnacho.com/]
+##### Features
+
+- Twitch streamer random-recommendation
+- Random recommendation
+- Provide similar streamer using cosine similarity
+- Recommend new streamers using collaborative filtering (on progress)
+- Other statistical features for fun!
+
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=helloracoon&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
