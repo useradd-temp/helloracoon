@@ -2,8 +2,9 @@
 
 ### Python Backend Developer
 
+<!--
 [![trophy](https://github-profile-trophy.vercel.app/?username=helloracoon)](https://github.com/ryo-ma/github-profile-trophy)
-
+-->
 
 #### [Twitch Nacho](https://www.twitchnacho.com/)
 ##### Features
