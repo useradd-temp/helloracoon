@@ -2,7 +2,7 @@
 
 ### Python Backend Developer
 
-#### [Twitch Nacho][https://www.twitchnacho.com/]
+#### [Twitch Nacho](https://www.twitchnacho.com/)
 ##### Features
 
 - Twitch streamer random-recommendation
