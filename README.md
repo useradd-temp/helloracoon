@@ -6,6 +6,7 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=helloracoon)](https://github.com/ryo-ma/github-profile-trophy)
 -->
 
+<!--
 #### [Twitch Nacho](https://www.twitchnacho.com/)
 ##### Features
 
@@ -15,6 +16,7 @@
 - Recommend new streamers using collaborative filtering (on progress)
 - Other statistical features for fun!
 
+-->
 <!--
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=helloracoon&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
